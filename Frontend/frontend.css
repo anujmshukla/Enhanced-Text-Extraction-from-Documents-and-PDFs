@@ -1,0 +1,16 @@
+#File_upload{
+    margin-top: 3vw;
+    margin-right: 30vw;
+    margin-left: 30vw;
+    /* background-color: rgb(231, 231, 157); */
+    display: flex; 
+    justify-content: center;
+}
+#Data{
+    font-size: medium;
+    /* background-color: rgb(231, 231, 157); */
+    margin-left: 3vw;
+    margin-right    : 3vw;
+    padding: 1%;
+    display: none;
+}
